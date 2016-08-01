@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">抽屉式</string>
+    <string name="feng">风</string>
+    <string name="mai">霾</string>
+    <string name="wu">雾</string>
+    <string name="xue">雪</string>
+    <string name="Day_and_night_mode">昼夜模式</string>
+</resources>

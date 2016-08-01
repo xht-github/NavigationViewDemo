@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/vector_drawable_feng"
+        android:title="@string/feng" />
+    <item
+        android:icon="@drawable/vector_drawable_mai"
+        android:title="@string/mai" />
+    <item
+        android:icon="@drawable/vector_drawable_wu"
+        android:title="@string/wu" />
+    <item
+        android:icon="@drawable/vector_drawable_xue"
+        android:title="@string/xue" />
+</menu>
